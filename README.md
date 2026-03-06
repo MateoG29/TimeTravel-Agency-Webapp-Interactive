@@ -37,7 +37,7 @@ Réalisation d'une plateforme moderne pour l'agence **TimeTravel Agency**, perme
 * **Framework :** React + Tailwind CSS
 * **Outil de Vibe Coding :** Bolt.new (moteur Claude 3.5 Sonnet)
 * **Animations :** Framer Motion (Transitions fluides et hover effects sur les cards)
-* **Hébergement des Assets :** [Préciser : Imgur / GitHub / Cloudinary]
+* **Hébergement des Assets :** https://bolt.new/
 
 ### Intégration Visuelle :
 
