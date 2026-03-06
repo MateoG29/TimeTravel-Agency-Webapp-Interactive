@@ -7,8 +7,8 @@
 ## Informations du Groupe
 
 * **Membres :** CHABIRON Elvin, GUEGUEN Matéo
-* **Lien de la Webapp :** (https://luxury-time-travel-r-vob3.bolt.host/#)
-* **Dépôt Code :** [Lien GitHub ou mention "Code source joint en ZIP"]
+* **Lien de la Webapp :** https://luxury-time-travel-r-vob3.bolt.host/#
+* **Dépôt Code :** https://github.com/MateoG29/TimeTravel-Agency-Webapp-Interactive
 
 ---
 
