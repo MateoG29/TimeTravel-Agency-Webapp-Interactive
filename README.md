@@ -6,8 +6,8 @@
 
 ## Informations du Groupe
 
-* **Membres :** [NOM Prénom 1], [NOM Prénom 2], [NOM Prénom 3], [NOM Prénom 4]
-* **Lien de la Webapp :** [COLLE TON LIEN VERCEL ICI]
+* **Membres :** CHABIRON Elvin, GUEGUEN Matéo
+* **Lien de la Webapp :** (https://luxury-time-travel-r-vob3.bolt.host/#)
 * **Dépôt Code :** [Lien GitHub ou mention "Code source joint en ZIP"]
 
 ---
