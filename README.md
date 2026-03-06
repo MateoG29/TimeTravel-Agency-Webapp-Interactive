@@ -52,7 +52,6 @@ Réalisation d'une plateforme moderne pour l'agence **TimeTravel Agency**, perme
 
 * **Identité :** Assistant expert de l'agence TimeTravel.
 * **Capacités :** Répond sur les prix, les risques (microbes au Crétacé) et l'histoire (Expo Universelle).
-* **Logique Contextuelle :** Le chatbot et le système de réservation intègrent une **maintenance temporelle pour Florence 1504** en raison des Guerres d'Italie (conflits entre la France et le Duché de Milan).
 
 ### Optionnel - Personnalisation :
 
@@ -66,7 +65,6 @@ Réalisation d'une plateforme moderne pour l'agence **TimeTravel Agency**, perme
 
 1. *Génération initiale :* "Landing page for luxury time travel agency, hero section with video, 3 destination cards, chatbot widget, elegant design, dark mode."
 2. *Animations :* "Ajoute des animations de fade-in progressif au scroll et des micro-interactions sur les boutons avec Framer Motion."
-3. *Logique Historique :* "Bloque la destination Florence et explique que c'est dû aux Guerres d'Italie dans le chatbot et le formulaire."
 
 ### Crédits :
 
